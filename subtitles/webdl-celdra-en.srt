@@ -84,7 +84,7 @@ Having kids is such an important decision.
 We're just waiting for the right time.
 
 20
-00:01:39,659 --> 00:01:41,829
+00:01:39,659 --> 00:01:41,915
 It's not something you want
 to rush into, obviously.
 
@@ -158,7 +158,7 @@ Oh, shit. It wasn't me! It wasn't me!
 Well, we finally decided to have children,
 
 37
-00:02:20,286 --> 00:02:23,563
+00:02:20,286 --> 00:02:23,669
 and I'm not pointing fingers,
 but it's not going well.
 
@@ -176,7 +176,7 @@ in vitro, maybe you should be willing to--
 It's always me, right?
 
 41
-00:02:31,878 --> 00:02:34,325
+00:02:31,878 --> 00:02:34,705
 Well, it's not my sperm count.
 
 42
@@ -192,16 +192,16 @@ That's my boy!
 Whoo! Whoo!
 
 45
-00:02:44,492 --> 00:02:46,152
+00:02:44,471 --> 00:02:46,111
 Clevon is lucky to be alive.
 
 46
-00:02:46,249 --> 00:02:49,095
+00:02:46,202 --> 00:02:48,361
 He attempted to jump
 a Jet Ski from a lake...
 
 47
-00:02:49,178 --> 00:02:51,671
+00:02:48,445 --> 00:02:51,671
 into a swimming pool and impaled
 his crotch on an iron gate.
 
@@ -216,12 +216,12 @@ and the fine work of Doctors Krinski
 and Altschuler,
 
 50
-00:02:57,116 --> 00:02:59,001
+00:02:57,093 --> 00:02:59,251
 Clevon should regain
 full reproductive function.
 
 51
-00:02:59,335 --> 00:03:00,780
+00:02:59,335 --> 00:03:01,213
 Get your hands off my junk!
 
 52
@@ -270,7 +270,7 @@ just outside of Washington, D.C.,</i>
 of human history.</i>
 
 62
-00:03:43,691 --> 00:03:45,985
+00:03:43,691 --> 00:03:46,511
 <i>Come on, asshole!
 Go on! Take him to jail!</i>
 
@@ -375,16 +375,16 @@ Like, follow me upstairs, like, now.
 Right now? Shouldn't I train this guy?
 
 85
-00:04:53,112 --> 00:04:57,390
+00:04:53,112 --> 00:04:57,912
 I think he can figure out how to sit on
 his ass and watch TV all day. Let's go.
 
 86
-00:05:04,512 --> 00:05:06,572
+00:05:04,512 --> 00:05:06,785
 <i>Gentlemen, meet Joe Bauers,</i>
 
 87
-00:05:07,408 --> 00:05:09,947
+00:05:07,408 --> 00:05:10,459
 our first subject for the Human
 Hibernation Experiment.
 
@@ -398,17 +398,17 @@ many of our best pilots,
 soldiers and military leaders...
 
 90
-00:05:15,189 --> 00:05:17,686
+00:05:15,189 --> 00:05:18,139
 often go their entire careers
 without ever seeing battle.
 
 91
-00:05:18,326 --> 00:05:21,838
+00:05:18,326 --> 00:05:22,171
 With the Human Hibernation Project,
 we will be able to save our best men,
 
 92
-00:05:22,442 --> 00:05:25,585
+00:05:22,442 --> 00:05:25,818
 frozen in their prime,
 for use when they are needed most.
 
@@ -417,7 +417,7 @@ for use when they are needed most.
 Joe, here, is not one of our best men.
 
 94
-00:05:29,407 --> 00:05:32,967
+00:05:29,407 --> 00:05:33,707
 Mr. Bauers was chosen primarily
 for how remarkably average he is.
 
@@ -491,7 +491,7 @@ a gentleman who goes by the name
 Upgrayedd, which he spells thusly--
 
 109
-00:06:21,547 --> 00:06:25,311
+00:06:21,547 --> 00:06:25,524
 With two D's, as he says,
 for a double dose of this pimping.
 
@@ -511,12 +511,12 @@ with the local authorities
 in running his pimp game.
 
 113
-00:06:35,363 --> 00:06:39,325
+00:06:35,363 --> 00:06:39,162
 First, however, there was the difficult
 challenge of gaining his trust.
 
 114
-00:06:40,589 --> 00:06:43,329
+00:06:40,529 --> 00:06:43,329
 Collins, could we skip
 to the technicals, please?
 
@@ -538,7 +538,7 @@ Collins!
 Fine. We'll move on.
 
 119
-00:06:55,710 --> 00:06:57,489
+00:06:55,710 --> 00:06:57,682
 It is a fascinating world though.
 
 120
@@ -573,7 +573,7 @@ However, if successful, we believe
 humans can be stored indefinitely.
 
 127
-00:07:41,076 --> 00:07:42,792
+00:07:41,076 --> 00:07:43,105
 So this is kinda crazy, huh?
 
 128
@@ -610,7 +610,7 @@ I, uh, had a neighbor, Glen.
 He used to make chainsaw sculptures,
 
 135
-00:08:07,604 --> 00:08:09,353
+00:08:07,604 --> 00:08:09,953
 and then he'd sell 'em at the flea market.
 
 136
@@ -642,7 +642,7 @@ I don't know, just...
 people and fruit and shit.
 
 142
-00:08:35,642 --> 00:08:39,471
+00:08:35,642 --> 00:08:39,904
 Wow. Well, must be great to be able to
 make a living doing something you love.
 
@@ -784,7 +784,7 @@ and the massive scandal that followed,</i>
 entire project was simply forgotten.</i>
 
 174
-00:10:30,120 --> 00:10:34,101
+00:10:30,120 --> 00:10:34,234
 <i>Things looked bleak for Joe,
 but they were even worse for mankind.</i>
 
@@ -818,7 +818,7 @@ and resources...</i>
 and prolonging erections.</i>
 
 181
-00:11:07,383 --> 00:11:12,676
+00:11:07,383 --> 00:11:12,753
 <i>Meanwhile, the population exploded,
 and intelligence continued to decline...</i>
 
@@ -972,7 +972,7 @@ Your floor--
 Your floor is now clean.
 
 216
-00:14:59,467 --> 00:15:01,621
+00:14:59,328 --> 00:15:01,621
 <i>Your floor--
 Your floor is now clean.</i>
 
@@ -1003,7 +1003,7 @@ My-My-My joints are all achy and I--
 Is this a hospital or--
 
 223
-00:15:21,668 --> 00:15:24,099
+00:15:21,668 --> 00:15:24,472
 Actually, I don't even know where I am.
 
 224
@@ -1104,7 +1104,7 @@ This one-- No.
 Come on!
 
 246
-00:16:56,144 --> 00:16:59,560
+00:16:56,144 --> 00:17:00,144
 <i>Thank you for waiting.
 Dr. Lexus will be with you shortly.</i>
 
@@ -1198,7 +1198,7 @@ And if you could just go ahead and,
 like, put your tattoo in that shit.
 
 266
-00:18:12,376 --> 00:18:15,687
+00:18:12,376 --> 00:18:15,826
 That's weird. This thing has
 the same misprint as that magazine.
 
@@ -1248,7 +1248,7 @@ You gotta let me talk to someone
 in the army! Wait a second.
 
 277
-00:18:53,141 --> 00:18:55,485
+00:18:53,142 --> 00:18:55,485
 They're all dead.
 Everybody I know's dead!
 
@@ -1330,11 +1330,11 @@ Your account has been charged.</i>
 <i>Your balance is zero.</i>
 
 295
-00:20:18,550 --> 00:20:19,866
+00:20:18,514 --> 00:20:19,372
 What? Oh, no. No!
 
 296
-00:20:19,893 --> 00:20:21,618
+00:20:19,456 --> 00:20:21,618
 <i>Please come back when you can afford
 to make a purchase.</i>
 
@@ -1343,21 +1343,21 @@ to make a purchase.</i>
 I'm sorry you're having trouble.
 
 298
-00:20:23,449 --> 00:20:26,359
+00:20:23,449 --> 00:20:27,772
 - Come on! My kids are starvin'.
 <i>- I'm sorry you're having trouble.</i>
 
 299
-00:20:28,629 --> 00:20:30,140
+00:20:28,629 --> 00:20:30,733
 <i>This should help you calm down.</i>
 
 300
-00:20:31,498 --> 00:20:34,288
+00:20:31,498 --> 00:20:34,575
 <i>Please come back when you
 can afford to make a purchase.</i>
 
 301
-00:20:34,659 --> 00:20:39,130
+00:20:34,659 --> 00:20:39,446
 <i>Your kids are starving. Carl's Jr.
 believes no child should go hungry.</i>
 
@@ -1366,12 +1366,12 @@ believes no child should go hungry.</i>
 <i>You are an unfit mother.</i>
 
 303
-00:20:41,350 --> 00:20:44,158
+00:20:41,350 --> 00:20:44,376
 <i>Your children will be placed
 in the custody of Carl's Jr.</i>
 
 304
-00:20:44,460 --> 00:20:47,235
+00:20:44,460 --> 00:20:47,260
 <i>Carl's Jr. "Fuck you. I'm eating."</i>
 
 305
@@ -1402,7 +1402,7 @@ Okay. This particular
 individual is unscannable.
 
 311
-00:21:07,728 --> 00:21:10,287
+00:21:07,728 --> 00:21:11,828
 Listen, I can explain, okay?
 I was in an army experiment.
 
@@ -1507,7 +1507,7 @@ Shut up! Shut up! Shut up!
 Now, prosecutor, why you think he done it?
 
 334
-00:22:28,286 --> 00:22:31,484
+00:22:28,286 --> 00:22:31,824
 Okay, number one, Your Honor,
 just look at him.
 
@@ -1535,7 +1535,7 @@ even have his tattoo.
 I know!
 
 340
-00:22:48,936 --> 00:22:52,171
+00:22:48,936 --> 00:22:52,518
 And I'm all, "You've gotta be shittin'
 me." But check this out, man.
 
@@ -1719,7 +1719,7 @@ Oh, yeah? Well, you gonna be
 glad you waited, baby.
 
 380
-00:24:58,213 --> 00:24:59,794
+00:24:58,213 --> 00:25:00,014
 Thank you very much, young man.
 
 381
@@ -1735,7 +1735,7 @@ Goddamn, shit's changed in a year.
 What are we doin' here?
 
 384
-00:25:10,120 --> 00:25:13,354
+00:25:10,120 --> 00:25:13,534
 Okay, sir, we're engaged
 in procuring your tattoo.
 
@@ -1805,12 +1805,12 @@ My last name is not Sure.
 <i>Confirmation is complete.</i>
 
 399
-00:25:58,864 --> 00:26:02,750
+00:25:58,864 --> 00:26:03,316
 <i>Please wait while I tattoo
 your new identity on your arm.</i>
 
 400
-00:26:04,751 --> 00:26:07,454
+00:26:04,751 --> 00:26:07,987
 Wait a second. Can we start over?
 Can I cancel this?
 
@@ -1825,7 +1825,7 @@ They're gonna tat-- Ow.
 Could I speak to your supervisor?
 
 403
-00:26:14,290 --> 00:26:17,316
+00:26:14,290 --> 00:26:17,802
 - Ow!
 - Please hold still for your photograph.
 
@@ -2014,13 +2014,13 @@ Could you check again?
 I was definitely in prison, okay?
 
 445
-00:29:07,180 --> 00:29:11,259
+00:29:07,180 --> 00:29:11,680
 I got sat on my face and everything.
 Maybe check those files back there?
 
 446
 00:29:18,201 --> 00:29:21,412
-<i>"Excape." "Excape."</i>
+<i>"м." "Excape."</i>
 
 447
 00:29:21,740 --> 00:29:28,122
@@ -2175,7 +2175,7 @@ And it breaks all the time 'cause some
 smart guy made it a long time ago.
 
 481
-00:31:15,718 --> 00:31:17,510
+00:31:15,718 --> 00:31:17,712
 I don't care. Just get me there, okay?
 
 482
@@ -2285,7 +2285,7 @@ Eighty billion.
 Oh, um, he-- He's... somewhere else.
 
 505
-00:32:22,778 --> 00:32:23,983
+00:32:22,751 --> 00:32:23,983
 You got something I can wear?
 
 506
@@ -2341,7 +2341,7 @@ couple billion, all right?
 I like money.
 
 517
-00:32:54,520 --> 00:32:57,531
+00:32:54,520 --> 00:32:58,114
 Okay, her pod's up here on the right.
 She shouldn't be far away, I hope.
 
@@ -2407,7 +2407,7 @@ I'll explain everything.
 Where we going? Just get in the car.
 
 531
-00:33:38,401 --> 00:33:40,419
+00:33:38,401 --> 00:33:41,058
 - Trust me.
 - What happened to those army guys?
 
@@ -2454,7 +2454,7 @@ So, you owe your boyfriend money?
 Well, yeah, he's sort of my manager too.
 
 542
-00:34:15,942 --> 00:34:19,477
+00:34:15,942 --> 00:34:19,658
 You know, he helps me sell
 the paintings and shit.
 
@@ -2562,11 +2562,11 @@ What are you doing?
 Why are we slowing down?
 
 565
-00:35:14,312 --> 00:35:15,654
+00:35:14,312 --> 00:35:15,920
 Turned off my battery.
 
 566
-00:35:22,185 --> 00:35:24,812
+00:35:22,185 --> 00:35:25,438
 Look, how far is it?
 Can we just take a cab or something?
 
@@ -2583,7 +2583,7 @@ Oh! Oh, shit!
 Yeah!
 
 570
-00:35:43,702 --> 00:35:45,617
+00:35:43,702 --> 00:35:46,477
 What the hell's wrong
 with you? That's your car.
 
@@ -2604,7 +2604,7 @@ Hey, how much farther is it?
 Uh, it's, like, far.
 
 575
-00:36:08,762 --> 00:36:11,557
+00:36:08,762 --> 00:36:11,484
 Man, I could really go for a Starbucks,
 you know?
 
@@ -2619,12 +2619,12 @@ we have time for a hand job, Joe.
 faster than an airplane ♪</i>
 
 578
-00:36:21,256 --> 00:36:24,176
+00:36:21,256 --> 00:36:24,462
 Man, he don't seem too bright.
 You sure he knows where he's going?
 
 579
-00:36:24,547 --> 00:36:26,878
+00:36:24,547 --> 00:36:26,982
 I sure hope so. He's our only chance.
 
 580
@@ -2632,7 +2632,7 @@ I sure hope so. He's our only chance.
 <i>♪ And fuckin' inflexible ♪</i>
 
 581
-00:36:28,866 --> 00:36:30,701
+00:36:28,866 --> 00:36:30,934
 How'd you hook up with this guy, anyway?
 
 582
@@ -2655,7 +2655,7 @@ Jesus Christ.
 Oh, look. One more thing.
 
 586
-00:37:04,825 --> 00:37:07,982
+00:37:04,825 --> 00:37:08,135
 He thinks he's gonna get billions
 of dollars if he takes us there.
 
@@ -2665,12 +2665,12 @@ So if he mentions anything about a
 savings account, just play along, okay?
 
 588
-00:37:12,373 --> 00:37:14,333
+00:37:12,373 --> 00:37:14,406
 Yeah, what if this
 time machine don't work?
 
 589
-00:37:14,491 --> 00:37:17,535
+00:37:14,491 --> 00:37:17,981
 Then I'll spend the rest of my life
 trying to fix it.
 
@@ -2680,11 +2680,11 @@ Welcome to Costco. I love you.
 Welcome to Costco. I love you.
 
 591
-00:37:29,056 --> 00:37:31,434
+00:37:29,056 --> 00:37:31,473
 Welcome to Costco. I love you.
 
 592
-00:37:33,342 --> 00:37:37,439
+00:37:33,342 --> 00:37:37,252
 Shuttle's down there in electronics,
 about an hour from here.
 
@@ -2694,20 +2694,20 @@ We've been walking forever.
 You sure you know where you're going?
 
 594
-00:37:47,696 --> 00:37:51,445
+00:37:47,696 --> 00:37:52,111
 Yeah, I know this place pretty good.
 I went to law school here.
 
 595
-00:37:52,248 --> 00:37:53,326
+00:37:52,248 --> 00:37:53,099
 In Costco?
 
 596
-00:37:53,351 --> 00:37:55,415
+00:37:53,351 --> 00:37:55,208
 Yeah. I couldn't believe it myself.
 
 597
-00:37:55,440 --> 00:37:59,550
+00:37:55,440 --> 00:37:59,156
 Luckily, my dad was an alumnus
 and pulled some strings.
 
@@ -2716,25 +2716,25 @@ and pulled some strings.
 Hey, come on, Joe. I already told you,
 
 599
-00:38:03,670 --> 00:38:06,612
+00:38:03,670 --> 00:38:07,358
 we'd all like a hand job,
 but we don't have time for it.
 
 600
-00:38:16,408 --> 00:38:18,216
+00:38:16,408 --> 00:38:18,269
 Hey, baby, wanna go out?
 
 601
-00:38:18,973 --> 00:38:20,746
+00:38:18,973 --> 00:38:20,839
 Wanna go out, honey?
 
 602
-00:38:27,420 --> 00:38:30,757
+00:38:27,420 --> 00:38:30,970
 Shuttle comes every few minutes.
 Shouldn't be long.
 
 603
-00:38:31,151 --> 00:38:32,632
+00:38:31,151 --> 00:38:32,938
 Do I got time to use the bathroom?
 
 604
@@ -2747,7 +2747,7 @@ Do I got time to use the bathroom?
 Yeah, back that thing up.
 
 606
-00:38:42,324 --> 00:38:45,215
+00:38:42,324 --> 00:38:45,148
 - Hey, you mind if I pound on that, Joe?
 - What?
 
@@ -2777,7 +2777,7 @@ back it up. And then you--
 - Then you-- Oh, yeah!
 
 612
-00:38:57,582 --> 00:38:59,165
+00:38:57,582 --> 00:38:59,457
 Stop! You're gonna get us caught, okay?
 
 613
@@ -2817,7 +2817,7 @@ then when I get back to the past,
 I tell her not to do the experiment.
 
 621
-00:39:20,434 --> 00:39:22,328
+00:39:20,434 --> 00:39:22,326
 Then she won't even be here.
 That'll work, right?
 
@@ -2910,7 +2910,7 @@ Ow! Fuck! Ow! Ow!
 What?
 
 641
-00:40:16,450 --> 00:40:18,577
+00:40:16,450 --> 00:40:18,837
 - Ow! God! Hey, stop!
 - Damn it.
 
@@ -2943,12 +2943,12 @@ of Joe's I.Q. test...</i>
 of the highest levels of government.</i>
 
 648
-00:40:37,795 --> 00:40:41,745
+00:40:37,795 --> 00:40:41,743
 Okay, wait a minute. I'm the smartest
 guy in the world? Says who?
 
 649
-00:40:41,948 --> 00:40:43,602
+00:40:41,948 --> 00:40:43,622
 The I.Q. test you took in prison.
 
 650
@@ -2957,7 +2957,7 @@ You got the highest score in history.
 Brought to you by Carl's Jr.
 
 651
-00:40:47,320 --> 00:40:49,989
+00:40:47,320 --> 00:40:50,080
 Yeah, dumb ass, you're even smarter
 than President Camacho.
 
@@ -2990,7 +2990,7 @@ Brought to you by Carl's Jr.
 - 'Cause they pay me every time I do.
 
 658
-00:41:06,583 --> 00:41:08,137
+00:41:06,583 --> 00:41:08,200
 It's a really good way to make money.
 
 659
@@ -3021,7 +3021,7 @@ He's kinda stupid, but he's
 President Camacho's stepbrother.
 
 665
-00:41:28,504 --> 00:41:30,715
+00:41:28,504 --> 00:41:30,975
 Still, he does a pretty good job, eh?
 
 666
@@ -3049,7 +3049,7 @@ be the secretary of the interior.
 I don't even know what it is.
 
 671
-00:41:51,167 --> 00:41:52,418
+00:41:51,167 --> 00:41:53,164
 You better find out.
 
 672
@@ -3058,7 +3058,7 @@ You better find out.
 - Hey, hey, hey, yo,
 
 673
-00:41:57,060 --> 00:42:00,471
+00:41:57,060 --> 00:42:00,669
 I gotta take care of some "bidness,"
 baby, so I need y'all to wait outside.
 
@@ -3083,7 +3083,7 @@ with the smartest man in the world.</i>
 - No, no.
 
 678
-00:42:19,499 --> 00:42:21,448
+00:42:19,499 --> 00:42:21,754
 I thought your head would be bigger.
 
 679
@@ -3095,7 +3095,7 @@ Goddamn.
 It look like a peanut.
 
 681
-00:42:30,682 --> 00:42:32,378
+00:42:30,682 --> 00:42:32,578
 Let's get you sworn in.
 
 682
@@ -3116,7 +3116,7 @@ Shut up.
 Shut up.
 
 686
-00:43:02,964 --> 00:43:04,744
+00:43:02,964 --> 00:43:04,497
 Sit your monkey ass down.
 
 687
@@ -3128,7 +3128,7 @@ Chill out.
 Shit.
 
 689
-00:43:14,280 --> 00:43:17,492
+00:43:14,280 --> 00:43:17,937
 I know shit's bad right
 now with all that starvin' bullshit.
 
@@ -3162,7 +3162,7 @@ South Carolina, "whassup?"
 That's what I thought!
 
 697
-00:43:44,751 --> 00:43:48,329
+00:43:44,751 --> 00:43:48,294
 Now, I understand everyone's
 shit's emotional right now,
 
@@ -3198,7 +3198,7 @@ he's gonna fix everything.
 I give you my word as president.
 
 705
-00:44:13,520 --> 00:44:15,981
+00:44:13,520 --> 00:44:16,107
 He'll fix the problems
 with all the dead crops.
 
@@ -3263,7 +3263,7 @@ and carsickness as well.</i>
 <i>President Camacho made another promise.</i>
 
 720
-00:45:06,197 --> 00:45:10,118
+00:45:06,197 --> 00:45:10,390
 <i>He would kick Joe's smart balls all the
 way up to the roof of his smart mouth.</i>
 
@@ -3301,7 +3301,7 @@ It beats jail, don't it?
 Besides, you do a kick-ass job,
 
 728
-00:45:36,716 --> 00:45:38,745
+00:45:36,716 --> 00:45:38,897
 you get a full presidential pardon.
 
 729
@@ -3363,7 +3363,7 @@ Gotta go, uh, work on some crop stuff,
 get that taken care of.
 
 742
-00:46:44,659 --> 00:46:47,022
+00:46:44,659 --> 00:46:47,131
 Hopefully get it worked out
 by the time we get back here.
 
@@ -3376,7 +3376,7 @@ Sounds pretty smart.
 Wait here, okay? Wait there.
 
 745
-00:46:51,581 --> 00:46:54,613
+00:46:51,581 --> 00:46:54,611
 Dude, this is trepidatious.
 You got me a room at the White House.
 
@@ -3405,7 +3405,7 @@ I don't know the first thing
 about growin' crops,
 
 751
-00:47:04,023 --> 00:47:06,262
+00:47:04,023 --> 00:47:06,495
 much less the goddamn "ecomony."
 
 752
@@ -3417,7 +3417,7 @@ Econ-Economy.
 Let's see. Growin' crops--
 
 754
-00:47:11,610 --> 00:47:15,680
+00:47:11,610 --> 00:47:15,785
 No, I just need you to tell me
 how to get to the time machine.
 
@@ -3571,12 +3571,12 @@ Dang! May I approach your benches?
 Uh, yeah. This sucks pretty bad.
 
 788
-00:49:24,836 --> 00:49:27,839
+00:49:24,836 --> 00:49:28,085
 Frito, why don't you come over here and,
 uh, take a look at this?
 
 789
-00:49:28,576 --> 00:49:30,977
+00:49:28,576 --> 00:49:31,184
 Come on. Hustle over here, buddy.
 I wanna figure this out.
 
@@ -3630,7 +3630,7 @@ Get your hands off me. What do you think
 I'm gonna do, run through the field?
 
 800
-00:50:06,555 --> 00:50:08,481
+00:50:06,555 --> 00:50:08,627
 What the fuck are you all starin' at?
 
 801
@@ -3752,7 +3752,7 @@ And you should also think about
 maybe finding an art manager
 
 826
-00:51:41,900 --> 00:51:43,683
+00:51:41,900 --> 00:51:43,984
 who's not also your boyfriend.
 
 827
@@ -3774,7 +3774,7 @@ Okay. Hey, a couple of us guys
 were wonderin', uh,
 
 831
-00:52:01,145 --> 00:52:02,921
+00:52:01,145 --> 00:52:03,567
 if we'd go family-style on her.
 
 832
@@ -3782,7 +3782,7 @@ if we'd go family-style on her.
 Uh, yeah, probably not right now.
 
 833
-00:52:08,926 --> 00:52:12,341
+00:52:08,926 --> 00:52:13,241
 We should focus on the crops.
 So let's get back to work. Maybe later.
 
@@ -3829,7 +3829,7 @@ the budget crisis of 2330...</i>
 simply bought the F.D.A...</i>
 
 843
-00:52:51,765 --> 00:52:53,350
+00:52:51,765 --> 00:52:53,687
 <i>and the F.C.C...</i>
 
 844
@@ -3850,7 +3850,7 @@ simply bought the F.D.A...</i>
 he might actually be able to solve.</i>
 
 848
-00:53:10,766 --> 00:53:14,514
+00:53:10,766 --> 00:53:14,647
 <i>With his options running out,
 Joe took a bold step.</i>
 
@@ -3886,7 +3886,7 @@ is that you want us
 to put water on the crops.
 
 856
-00:53:34,145 --> 00:53:37,356
+00:53:34,145 --> 00:53:37,016
 - Yes.
 - Water. Like out the toilet?
 
@@ -3937,12 +3937,12 @@ Ok look, you wanna solve this problem.
 I wanna get my pardon.
 
 867
-00:54:06,207 --> 00:54:10,673
+00:54:06,207 --> 00:54:10,839
 So why don't we just try it, okay,
 and not worry about what plants crave?
 
 868
-00:54:11,335 --> 00:54:13,004
+00:54:11,335 --> 00:54:13,404
 Brawndo's got what plants crave.
 
 869
@@ -3964,7 +3964,7 @@ Yeah, but why do they
 use them to make Brawndo?
 
 873
-00:54:24,558 --> 00:54:26,243
+00:54:24,558 --> 00:54:26,563
 'Cause Brawndo's got electrolytes.
 
 874
@@ -4024,7 +4024,7 @@ to a full presidential pardon.</i>
 <i>Or so it seemed.</i>
 
 886
-00:55:14,946 --> 00:55:17,165
+00:55:14,946 --> 00:55:17,243
 Man, I hope somethin' grows fast.
 
 887
@@ -4042,7 +4042,7 @@ I don't know. I mean, how did
 the world ever get like this?
 
 890
-00:55:29,544 --> 00:55:32,505
+00:55:29,544 --> 00:55:33,004
 You know things are bad when they're
 comin' to me for answers.
 
@@ -4088,11 +4088,11 @@ Hey, Joe, listen. Those cops--
 - No. No.
 
 900
-00:55:58,874 --> 00:56:00,880
+00:55:58,874 --> 00:56:01,740
 They said that you got me a pardon.
 
 901
-00:56:02,010 --> 00:56:04,953
+00:56:02,010 --> 00:56:06,072
 You know, if you hadn't done that,
 I'd still be in jail right now, so...
 
@@ -4101,7 +4101,7 @@ I'd still be in jail right now, so...
 I guess I owe you one.
 
 903
-00:56:11,586 --> 00:56:14,589
+00:56:11,586 --> 00:56:15,022
 You know, you don't have to sleep
 on the floor if you don't want to.
 
@@ -4110,7 +4110,7 @@ on the floor if you don't want to.
 Oh. No. I'm-- I'm all right. Yeah.
 
 905
-00:56:20,599 --> 00:56:23,769
+00:56:20,599 --> 00:56:24,082
 Besides, you know, I don't think
 Upgrayedd would be too happy about that.
 
@@ -4249,7 +4249,7 @@ himself in the toilet now.
 And as history pulls down its pants...
 
 936
-00:57:58,081 --> 00:58:01,376
+00:57:58,081 --> 00:58:01,708
 and prepares to lower its ass
 on Not Sure's head,
 
@@ -4283,7 +4283,7 @@ everyone with a bunch of smart talk.
 <i>Blah, blah, blah. You gotta believe me!</i>
 
 943
-00:58:28,374 --> 00:58:30,376
+00:58:28,374 --> 00:58:30,441
 <i>That part of the trial sucked.</i>
 
 944
@@ -4317,7 +4317,7 @@ Doesn't sound so bad.
 Not so bad, huh?
 
 951
-00:58:48,947 --> 00:58:52,075
+00:58:48,947 --> 00:58:52,721
 Here's some highlights
 from last week's <i>Rehabilitation.</i>
 
@@ -4327,7 +4327,7 @@ from last week's <i>Rehabilitation.</i>
 that wonderful finish...</i>
 
 953
-00:59:05,614 --> 00:59:08,428
+00:59:05,614 --> 00:59:09,194
 <i>by Rehab Officer Tylenol Jones?</i>
 
 954
@@ -4354,7 +4354,7 @@ like you did last time?
 - How?
 
 959
-00:59:27,198 --> 00:59:29,134
+00:59:27,198 --> 00:59:29,674
 They chained me to a big rock.
 
 960
@@ -4400,12 +4400,12 @@ I think maybe the world got like this
 because of people like me.
 
 969
-00:59:57,743 --> 01:00:02,251
+00:59:57,743 --> 01:00:01,657
 I never did anything with my life.
 At least you were an artist, you know?
 
 970
-01:00:02,287 --> 01:00:05,091
+01:00:02,287 --> 01:00:05,284
 - So just go back and--
 - Visit's over!
 
@@ -4478,7 +4478,7 @@ you by Brawndo the Thirst Mutilator.</i>
 <i>After you've killed someone...</i>
 
 986
-01:01:10,342 --> 01:01:11,992
+01:01:10,342 --> 01:01:12,501
 <i>- your body needs electrolytes.</i>
 - Yeah.
 
@@ -4518,7 +4518,7 @@ Oh! Can you turn this up?
 I love Rehabilitation.
 
 995
-01:01:47,620 --> 01:01:51,601
+01:01:47,620 --> 01:01:51,758
 <i>Okay. Let's meet our
 rehabilitation officers for tonight.</i>
 
@@ -4661,7 +4661,7 @@ everybody came here to see,</i>
 <i>officer ever in history,</i>
 
 1027
-01:04:02,398 --> 01:04:06,027
+01:04:02,398 --> 01:04:06,122
 <i>coming out of retirement
 just to pound Not Sure's ass,</i>
 
@@ -4835,7 +4835,7 @@ Hey, Frito. Frito, you remember those
 crops we saw off the road...
 
 1066
-01:07:18,494 --> 01:07:20,254
+01:07:18,494 --> 01:07:20,267
 - right by the Starbucks?
 - Uh-huh.
 
@@ -4863,7 +4863,7 @@ There's a bunch of whores in the hallway.
 Come on, Frito. Hurry.
 
 1072
-01:07:59,631 --> 01:08:01,716
+01:07:59,631 --> 01:08:01,836
 Can't believe you like money too.
 
 1073
@@ -4880,7 +4880,7 @@ Can't believe you like money too.
 Yes! Yes!
 
 1076
-01:08:37,511 --> 01:08:39,795
+01:08:37,511 --> 01:08:39,883
 - He's behind the fucking truck!
 - He's over there!
 
@@ -4976,7 +4976,7 @@ I just wanted to help you. That's all.</i>
 You can try and run me over, whatever.</i>
 
 1097
-01:10:09,144 --> 01:10:12,481
+01:10:09,144 --> 01:10:12,641
 <i>But I just want you to
 ask yourselves one question first.</i>
 
@@ -4985,7 +4985,7 @@ ask yourselves one question first.</i>
 <i>Do you really want to live in a world...</i>
 
 1099
-01:10:16,322 --> 01:10:19,923
+01:10:16,322 --> 01:10:20,543
 <i>where you try to blow up the one person
 that's tryin' to help you?</i>
 
@@ -5019,7 +5019,7 @@ Wait. This reminds me of something.
 Rehabilation."
 
 1107
-01:11:11,511 --> 01:11:13,180
+01:11:11,511 --> 01:11:13,564
 Why do you keep trying to read that word?
 
 1108
@@ -5064,7 +5064,7 @@ you were looking out for the whole world
 so, you know,
 
 1117
-01:12:54,916 --> 01:12:56,743
+01:12:54,916 --> 01:12:57,391
 I thought someone
 should look out for you too.
 
@@ -5073,7 +5073,7 @@ should look out for you too.
 Thanks.
 
 1119
-01:13:00,055 --> 01:13:02,122
+01:13:00,055 --> 01:13:02,373
 I can't believe
 I'm even saying this, but...
 
@@ -5082,7 +5082,7 @@ I'm even saying this, but...
 even though these people tried to kill me,
 
 1121
-01:13:04,499 --> 01:13:06,557
+01:13:04,499 --> 01:13:06,901
 you know, I think I'm actually
 gonna kinda miss 'em.
 
@@ -5141,7 +5141,7 @@ At Starbucks?
 Yeah.
 
 1134
-01:13:42,521 --> 01:13:44,331
+01:13:42,521 --> 01:13:45,137
 Yeah? You're still gonna
 paint though, right?
 
@@ -5168,7 +5168,7 @@ Not Sure, get your ass up here,
 wherever you is.
 
 1140
-01:14:06,705 --> 01:14:08,874
+01:14:06,705 --> 01:14:09,273
 Let me get that little
 peanut head up here.
 
@@ -5326,7 +5326,7 @@ travel through time, huh?
 - Yeah.
 
 1174
-01:16:18,369 --> 01:16:21,331
+01:16:18,369 --> 01:16:21,427
 For the smartest guy in the world,
 you're pretty dumb sometimes.
 
@@ -5336,7 +5336,7 @@ you're pretty dumb sometimes.
 - 'Cause I like money. I'm sorry.
 
 1176
-01:16:25,756 --> 01:16:29,343
+01:16:25,756 --> 01:16:29,449
 But if it's not a real time machine,
 there wouldn't have been any money.
 
@@ -5431,7 +5431,7 @@ Yeah!
 a long time ago,</i>
 
 1197
-01:17:45,420 --> 01:17:47,755
+01:17:45,420 --> 01:17:47,828
 <i>when reading wasn't just for fags...</i>
 
 1198
